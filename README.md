@@ -1,1 +1,1 @@
-# library-management
+# library-management software
