@@ -23,6 +23,12 @@
 .cd-form .b-category {
   background: url("../img/ic_book_category.svg") no-repeat 16px center;
 }
+.cd-form .b-location {
+  background: url("../img/ic_book_location.svg") no-repeat 16px center;
+}
+.cd-form [required].b-location {
+  background: url("../img/ic_book_location.svg") no-repeat 16px center, url("../img/ic_required.svg") no-repeat top right;
+}
 .cd-form .b-price {
   background: url("../img/ic_book_price.svg") no-repeat 16px center;
 }
